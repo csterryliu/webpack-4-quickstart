@@ -5,7 +5,7 @@ import ReactDOM from "react-dom";
 const App = () => {
   return (
     <div>
-      <p>React here!</p>
+      <p>React here! With hot reload! Everything is easy with webpack 4!</p>
     </div>
   );
 };
